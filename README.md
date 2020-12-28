@@ -2,13 +2,13 @@
 <h3 align="center">I'm a full stack application developer who is well versed with C#, Angular, React, SQL and cloud computing in Azure and AWS. Also, I recently completed a 6 month internship at CBRE Econometric Advisors, Boston, working in 2 cross-functional scrum teams to develop data oriented applications.</h3>
 
 <p align="center">
-    <a href="mailto:sajal.sood@gmail.com" rel="nofollow noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>&nbsp;
+  <a href="mailto:sajal.sood@gmail.com" rel="nofollow noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a> &nbsp;
   <a href="https://stackoverflow.com/users/3884734/sajal" target="_blank"><img align="center"src="https://stackoverflow.com/users/flair/3884734.png" width="208" height="58" alt="profile for Sajal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sajal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> &nbsp;
   <a href="https://www.linkedin.com/in/sajalsood" target="_blank" rel="nofollow noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsood&layout=compact&exclude_repo=INFO6205Project,TrafficSimulation" alt="sajalsood" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsood&layout=compact&exclude_repo=INFO6205Project,TrafficSimulation&langs_count=10" alt="sajalsood" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajalsood&show_icons=true&count_private=true" alt="sajalsood" />
 </p>
 
@@ -36,17 +36,3 @@
      <img align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
      <img align="center" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />   
 </p>
-
- <!--
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajalsood" alt="sajalsood" /></a> </p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
- -->
