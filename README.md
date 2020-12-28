@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sajal Sood</h1>
+<h1 align="center">Hi there, I'm Sajal Sood 👋</h1>
 <h3 align="center">I'm a full stack application developer who is well versed with C#, Angular, SQL and cloud computing in Azure and AWS. Also, I recently completed a 6 month co-op at CBRE Econometric Advisors, Boston, MA working in 2 cross-functional scrum teams to develop data oriented applications.</h3>
 
 <p align="center">
@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsood&layout=compact" alt="sajalsood" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajalsood&show_icons=true" alt="sajalsood" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsood&layout=compact&count_private=true&exclude_repo=INFO6205Project,TrafficSimulation&langs_count=5" alt="sajalsood" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajalsood&show_icons=true&count_private=true" alt="sajalsood" />
 </p>
 
 
