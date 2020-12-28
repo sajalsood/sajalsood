@@ -1,6 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Sajal Sood</h1>
 <h3 align="center">I'm a full stack application developer who is well versed with c#, Angular, SQL and cloud computing in Azure and AWS. Also, I recently completed a 6 month co-op at <a href="https://www.cbre-ea.com/public-home" target="_blank" alt="CBRE EA">CBRE Econometric Advisors</a>, working in 2 cross-functional scrum teams to develop data oriented applications.</h3>
 
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sajalsood" rel="nofollow noreferrer"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> &nbsp;
+  <a href="https://stackoverflow.com/users/3884734/sajal"><img align="center"src="https://stackoverflow.com/users/flair/3884734.png" width="208" height="58" alt="profile for Sajal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sajal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
+ 
  <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajalsood" alt="sajalsood" /></a> </p>
 
