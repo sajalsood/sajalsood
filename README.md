@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sajal Sood</h1>
-<h3 align="center">I'm a full stack application developer who is well versed with c#, Angular, SQL and cloud computing in Azure and AWS.</h3>
-<h4 align="center">Also, I recently completed my 6 month co-op at <a href="https://www.cbre-ea.com/public-home" target="_blank" alt="CBRE EA">CBRE Econometric Advisors</a>, working in 2 cross-functional scrum teams to develop data oriented applications.</h4>
+<h3 align="center">I'm a full stack application developer who is well versed with c#, Angular, SQL and cloud computing in Azure and AWS. Also, I recently completed a 6 month co-op at <a href="https://www.cbre-ea.com/public-home" target="_blank" alt="CBRE EA">CBRE Econometric Advisors</a>, working in 2 cross-functional scrum teams to develop data oriented applications.</h3>
 
  <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajalsood" alt="sajalsood" /></a> </p>
