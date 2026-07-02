@@ -63,10 +63,3 @@ My recent work centers on:
 
 - Northeastern University, Master of Science in Information Systems.
 - Manipal Institute of Technology, Bachelor of Engineering in Computer Science and Engineering.
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsood&layout=compact&exclude_repo=INFO6205Project,TrafficSimulation&langs_count=10" alt="Sajal Sood top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sajalsood&show_icons=true&count_private=true" alt="Sajal Sood GitHub stats" />
-</p>
